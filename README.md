@@ -4,6 +4,14 @@ https://docs.google.com/presentation/d/1R8wEp3mOq1t8N6NMn4EFHrIF3foxICtPKkSm2JSb
 
 # Tools
 
+## Anaconda
+Distribution for python and R containing a lot of packages and tools for datascience and machine learning.
+https://www.anaconda.com/distribution/
+
+## Sklearn
+Package containing a lot of pre-implemented models and tools for machine learning.
+https://scikit-learn.org/stable/
+
 ## Keras
 User friendly interface over tensorflow. Easy to start with even with little knowledge of python.
 https://keras.io
